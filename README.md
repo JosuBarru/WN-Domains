@@ -24,7 +24,7 @@ The goal is to address a multi-class text classification problem by assigning do
 
 - **Model Training:**  
   - Fine-tuned three transformer architectures:
-    - **DistilBERT:**
+    - **DistilBERT**
     - **BERT**
     - **RoBERTa**
   - Performed hyperparameter tuning (learning rate, batch size, epochs, scheduling) and applied early stopping to mitigate overfitting.
@@ -47,10 +47,10 @@ The goal is to address a multi-class text classification problem by assigning do
 ## Files and Structure
 
 - **WN-Domains.ipynb:**  
-  Contains the complete code for data preprocessing, model fine-tuning, and evaluation.
+  Contains the complete code for data preprocessing, model fine-tuning and evaluation.
   
 - **Informe.pdf:**  
-  Provides a detailed report on the methodology, experimental setup, results, and analysis.
+  Provides a detailed report on the methodology, experimental setup, results and analysis.
 
 - **train.tsv & test.tsv:**  
   Processed datasets used for training and testing the models.
